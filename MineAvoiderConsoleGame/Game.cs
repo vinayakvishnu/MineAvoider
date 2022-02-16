@@ -1,6 +1,6 @@
 using System;
 
-  class Program
+  class Game
   {
       public static int parseCheck(string input)
       {
